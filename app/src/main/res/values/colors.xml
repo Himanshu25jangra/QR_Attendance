@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DEDFE4</color>
+    <color name="colorPrimaryDark">#1A212B</color>
+    <color name="colorAccent">#2EA25E</color>
+    <color name="gray_700">#374053</color>
+    <color name="gray_500">#C3C3C3</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bottom_nav_color">#141A22</color>
+    <color name="tab_unselected_color">#7C7C7C</color>
+    <color name="attendee_name_color">#91A093</color>
+    <color name="attendee_item_color">#141620</color>
+        <color name="purple_200">#FFBB86FC</color>
+        <color name="purple_500">#FF6200EE</color>
+        <color name="purple_700">#FF3700B3</color>
+        <color name="teal_200">#FF03DAC5</color>
+        <color name="teal_700">#FF018786</color>
+        <color name="primary_background_theme">#E2E8E6E6</color>
+        <color name="input">#bebebe</color>
+        <color name="card_background">#d6d6d6</color>
+        <color name="navbar_background">#FFFFFF</color>
+        <color name="red">#FF0000</color>
+        <color name="card">#F0F3F4</color>
+        <color name="navbar_item">#566573</color>
+        <color name="buttonColor">#000000</color>
+        <color name="textcolor">#000000</color>
+        <color name="background_buttonColor">#000000</color>
+    <color name="grey">#707070</color>
+    </resources>

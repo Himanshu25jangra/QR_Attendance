@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064867426369",
+    "project_id": "qr-attendance-92677",
+    "storage_bucket": "qr-attendance-92677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064867426369:android:73768bec15cb11606e96c0",
+        "android_client_info": {
+          "package_name": "com.example.qrattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2wjisndj12iUrlwnV5RQp5BNkACyVsso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

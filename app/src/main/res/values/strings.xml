@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ATTENDZ</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="create_qr">Create QR</string>
+    <string name="attendance">Attendance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_a_name">Name</string>
+    <string name="download_qr">Download QR</string>
+    <string name="notes">Notes</string>
+    <string name="no_image_to_download">There is no image to download.</string>
+    <string name="clear_attendance">Clear Attendance</string>
+    <string name="export_cvs">Export CVS</string>
+    <string name="required_permissions">Please provide required permissions</string>
+    <string name="csv_generated">CSV File is generated</string>
+    <string name="csv_ungenerated">CSV File can\'t be generated</string>
+    <string name="welcome">WELCOME</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SignUp</string>
+    <string name="register">Register</string>
+    <string name="already_have_a_account">Already have a account</string>
+    <string name="signin">SignIn</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="or">or</string>
+
+    <string name="create_account">Create Account</string>
+    <string name="create">Create</string>
+    <string name="e_mail"> E-mail</string>
+    <string name="phone_number"> Phone Number</string>
+    <string name="don_t_have_an_account_create">Don\'t have an account? <u><b>Create</b></u></string>
+    <string name="sign_in">Sign in</string>
+    <string name="forgot_your_password">forgot your password?</string>
+    <string name="hello">Hello</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="or_create_account_using_social_media">or create account using social media</string>
+    <string name="enter_email">Enter Email</string>
+</resources>
